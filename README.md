@@ -27,3 +27,6 @@ Press the F8 key to open the console.
 Any server script errors will be displayed in the console for easy debugging.
 Contributing
 Feel free to open issues or submit pull requests to improve the functionality or performance of the script.
+
+License
+MIT License
